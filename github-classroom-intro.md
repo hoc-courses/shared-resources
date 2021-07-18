@@ -10,9 +10,9 @@ We are going to be using **GitHub Classroom** to manage homework assignments. Th
 
 GitHub Classroom allows instructors to create a set of repositories that are templates for assignments that they can then assign to students.
 
-For each assignment, GitHub Classroom will make a special URL link. When you go to that link in a browser, GitHub will create a private repository for you, with a name that includes both the assignment name and your GitHub username.  This repository is a clone of the starter repository. The repository is a private repository owned by the course staff \(so we can view it\) that the student will have write access to.
+For each assignment, GitHub Classroom will make a special URL link. When you go to that link in a browser, GitHub will create a private repository for you, with a name that includes both the assignment name and your GitHub username.  This repository is a clone of the starter repository. The repository is a private repository owned by the course staff (so we can view it) that the student will have write access to.
 
-The student uses this created repository to create their assignment. This will involve cloning the repository to your local computer, editing the files and adding new ones, committing the changes \(to your local repository\), and pushing these changes back to the GitHub repository \(so the instructor can view it\).
+The student uses this created repository to create their assignment. This will involve cloning the repository to your local computer, editing the files and adding new ones, committing the changes (to your local repository), and pushing these changes back to the GitHub repository (so the instructor can view it).
 
 The basic workflow is:
 
@@ -32,29 +32,31 @@ The basic workflow is:
 
 ## Starting an assignment
 
-You will receive a link \(URL\) to the assignment on the Homework page. Paste the link into a browser. You will be presented with a page like the following. 
+For this tutorial, we will use a sample class with the name **intro-web-dev-fall-2021** and a sample assignment named **bash-shell**. You should substitute the appropriate names for your specific class.
+
+You will receive a link (URL) to the assignment on the Homework page. Paste the link into a browser. You will be presented with a page like the following. 
 
 Click the **Accept this assignment** button.
 
-![](../.gitbook/assets/image%20%28192%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-1.png)
 
 You will be directed to the following screen, asking you to wait for the assignment repository to be configured..
 
-![](../.gitbook/assets/image%20%28200%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-2.png)
 
 After a minute or so, refresh the page and then click on the link to the assignment.
 
-![](../.gitbook/assets/image%20%28207%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-3.png)
 
 Clicking on the assignment link will redirect you to the GitHub website where a repository has been created for you. The repository is not within your own GitHub account. It is part of the classroom account for the course.
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-4.png)
 
 ### Assignment Contents
 
 The assignment repository contains all of the files you need to complete the assignment. 
 
-#### README.md - Assignment Directions
+### README.md - Assignment Directions
 
 The assignment will always contain at a minimum, a README.md file, which is what a repo displays as the default file for the repo. It is written in a special language \(markdown\) which allows the author to add special tags which will format the content to display nicely.
 
@@ -64,11 +66,11 @@ Depending on the nature of the assignment, there may be starter files included i
 
 ### Cloning the Repository to your Local Computer
 
-Cloning is what you do when you want to **create a local copy of a GitHub repository and maintain a connection to the GitHub repository from your local computer**. This allows you to work on the assignment on your local computer and push your changes back to the GitHub repository when the assignment is complete \(or at any time along the way to save intermediate snapshots\).
+Cloning is what you do when you want to **create a local copy of a GitHub repository and maintain a connection to the GitHub repository from your local computer**. This allows you to work on the assignment on your local computer and push your changes back to the GitHub repository when the assignment is complete (or at any time along the way to save intermediate snapshots).
 
 To clone a GitHub repository, you click on the green Code button, and then click on the clipboard icon to copy the URL for this repository.
 
-![](../.gitbook/assets/image%20%28198%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-5.png)
 
 The next step is to use the repository URL in the **git clone** command to clone the repository. 
 
@@ -82,19 +84,19 @@ One disadvantage of doing this from the command line, is that the Bash Shell doe
 
 So, first you would type git clone on the command line, then use the context menu to paste in the GitHub repository URL as the second argument and then enter.
 
-![](../.gitbook/assets/image%20%28203%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-6.png)
 
-Once the command has completed, you can issue the **ls** command to see that a new directory, named bash-shell-\[your-githubusername\], has been created. Use the **cd** command to change directories into the newly created directory, followed by the **ls** command, to see the files that are included in this assignment.
+Once the command has completed, you can issue the **ls** command to see that a new directory, named bash-shell-[your-githubusername], has been created. Use the **cd** command to change directories into the newly created directory, followed by the **ls** command, to see the files that are included in this assignment.
 
 #### From Visual Studio Code
 
 When VS Code first starts up, you are presented with a welcome screen that gives you the option of cloning a repository.
 
-![](../.gitbook/assets/image%20%28204%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-7.png)
 
 After you click on either of the links shown above, you will be presented with a box to paste in the assignment URL.
 
-![](../.gitbook/assets/image%20%28194%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-8.png)
 
 This will then automatically clone the GitHub repository and load the project.
 
@@ -102,9 +104,11 @@ This will then automatically clone the GitHub repository and load the project.
 
 The following depicts the process that occurs on your local computer and the commands involved with working with your local repository, and the push command that pushes the changes from your local repository to your corresponding GitHub repository.
 
-![](../.gitbook/assets/image%20%28202%29.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-9.png)
 
 **git init** - this step occurred automatically when the GitHub repository was cloned to your local computer. You only need to do this step when you create a local repository first.
+
+**git status** - returns a list of untracked (not in the staging area for the next commit) and tracked files (files in the staging area ready for the next commit).
 
 **git add** - adds any changed files to the staging area to be committed to your local repository.
 
