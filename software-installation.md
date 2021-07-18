@@ -40,7 +40,8 @@ Go to the [Node.js website](https://nodejs.org/en/download/) and download and in
 
 Slack is an application that allows team members to communicate with each other through chat, with optional phone/video. It's used in most tech companies and is really easy to use. We will use slack for our class communication. 
 
-Go to the [Slack website](https://slack.com/downloads/) and download and install Slack.
+Go to the
+<a href="https://slack.com/downloads" target="_blank">Slack website</a>and download and install Slack.
 
 
 **Note:** If you want to use Slack from your phone, there's an app for that.
