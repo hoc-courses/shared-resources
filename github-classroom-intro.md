@@ -1,6 +1,3 @@
----
-description: Using GitHub Classroom to manage assignments
----
 
 # GitHub Classroom Intro
 

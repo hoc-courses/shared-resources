@@ -1,6 +1,3 @@
----
-description: Install/Configure Core Software Needed for the Course
----
 
 # Software Installation
 
