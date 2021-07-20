@@ -14,7 +14,7 @@ To clone a GitHub repository, you need to first go to the GitHub repository to g
 
 ### 2. Issue the git clone command on your local computer
 
-There are two options for how to clone your assignment repository.
+There are two options for how to clone a repository.
 
 #### From the Command Line
 
