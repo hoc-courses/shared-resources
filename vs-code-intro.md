@@ -5,6 +5,33 @@ Visual Studio Code is the source code editor we will be using in the class. It  
 
 This [video](https://www.youtube.com/watch?v=ORrELERGIHs) is a good overview of the core functionalities in VS Code.
 
+## Essential Extensions
+
+![](images/live-server-ext.png)
+![](images/live-share-ext.png)
+![](images/prettier-ext.png)
+![](images/bracket-colorizer-ext.png)
+
+## Popular Editor Themes
+These supply syntax and background coloring, as well as icons for different file types in the File Explorer View.
+
+![](images/icon-theme.png)
+![](images/ayu-theme.png)
+![](images/atom-theme.png)
+
+## JavaScript Extensions
+![](images/debugger-ext.png)
+![](images/eslint-ext.png)
+![](images/quokka-ext.png)
+![](images/rest-ext.png)
+
+## Resources
+* [VS Tutorial](https://www.youtube.com/watch?v=ORrELERGIHs)
+* [VS Shortcuts](https://travis.media/10-vs-code-shortcuts-to-memorize-that-will-boost-your-productivity/)
+* [Emmet](https://dev.to/raaynaldo/speed-up-code-your-html-using-emmet-in-vscode-nesting-operators-201o)
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+
+
 
 
 
