@@ -14,7 +14,9 @@ The following depicts the process that occurs on your local computer and the com
 
 **git push** - pushes any changes you have made since the last commit to the GitHub repository, thereby syncs up the GitHub repo with your local repo.
 
-#### Add, Commit, Push Cycle
+<br/>
+
+### Add, Commit, Push Cycle
 These three steps, **a**dd, **c**ommit, **p**ush, are commonly referred to as the **ACP cycle**, and can be repeated as many times as desired as you work on your project. Is is a good practice to push to GitHub whenever you are at a stable point after making some changes. This ensures that you can always return to that point if the need arises.
 
 In addition, the **git status** command is used frequently to ensure that the steps in the ACP cycle are being carried out correctly.
@@ -39,7 +41,9 @@ Use the **git status** command to verify the files were commited.
 Use the **git push** command to push your snapshot to the GitHub repo.
 ![](./images/git-push.png)
 
----
+<br/>
+<br/>
+
 ### Staging Area
 One of the most confusing parts, when you're first learning git, is the concept of the staging area and how it relates to a commit. 
 
