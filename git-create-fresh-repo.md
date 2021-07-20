@@ -11,4 +11,4 @@ If you create the GitHub repository first, and check the option to include a REA
 
 ### 2. Clone the new Repo
 
-![](./images/git-clone-1.png)
+Once you have created the repo, you can follow the steps to [clone an exiting GitHub repo](./git-cloning-existing-repo.md).
