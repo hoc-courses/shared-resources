@@ -25,6 +25,10 @@ These supply syntax and background coloring, as well as icons for different file
 ![](images/quokka-ext.png)
 ![](images/rest-ext.png)
 
+## Setting Git Bash as your Default Terminal Shell
+Bring up the Command Pallete and type **Terminal: Select Default Profile**, and then select **Git Bash**
+
+
 ## Resources
 * [VS Tutorial](https://www.youtube.com/watch?v=ORrELERGIHs)
 * [VS Shortcuts](https://travis.media/10-vs-code-shortcuts-to-memorize-that-will-boost-your-productivity/)

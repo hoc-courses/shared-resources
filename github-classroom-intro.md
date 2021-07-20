@@ -1,27 +1,34 @@
 
 # GitHub Classroom Intro
 
-We are going to be using **GitHub Classroom** to manage homework assignments. This will give you lots of experience using **git** and **GitHub**, which is a very useful skill, both for personal use, and one that employers require of new hires.
+We are going to be using **GitHub Classroom** to manage homework assignments. It simplifies the task of distributing/collection assignments. 
+
+It will also give you lots of experience using **git** and **GitHub**, which are very useful skills, both for personal use, and one that employers require of new hires.
 
 ## Summary
 
 GitHub Classroom allows instructors to create a set of repositories that are templates for assignments that they can then assign to students.
 
-For each assignment, GitHub Classroom will make a special URL link. When you go to that link in a browser, GitHub will create a private repository for you, with a name that includes both the assignment name and your GitHub username.  This repository is a clone of the starter repository. The repository is a private repository owned by the course staff (so we can view it) that the student will have write access to.
+For each assignment, GitHub Classroom will make a special URL link. When you go to that link in a browser, GitHub will create a private repository for you, with a name that includes both the assignment name and your GitHub username. For example, *assignment-1-username*.  
 
-The student uses this created repository to create their assignment. This will involve cloning the repository to your local computer, editing the files and adding new ones, committing the changes (to your local repository), and pushing these changes back to the GitHub repository (so the instructor can view it).
+This repository is a copy of the starter repository. The repository is a private repository owned by the course staff (so they can easily find and view it). It is located within the course GitHub organization, not your private GitHub account, but the student will have write access to it.
 
-The basic workflow is:
+The student uses this created repository to work on their assignment. This will involve cloning the repository to your local computer, editing the files and adding new ones, committing the changes (to your local repository), and pushing these changes back to the GitHub repository (so the instructor can view it).
 
-* The instructor provides you with a repository on GitHub with the start of a project.
-* You **clone** this repo to your laptop
-* You do some work
-* You **add** files if you created new ones in the project
-* You **commit** your work
-* You **push** the changes back to your remote repo on GitHub
-* You do some more work
+### Basic Workflow
+
+* instructor provides you with a link to start the assignment. 
+* paste the URL in the browser
+* a new assignment repo is created for you
+
+* you **clone** this repo to your local computer
+* you do some work
+* you **add** files if you created new ones in the project
+* you **commit** your work
+* you **push** the changes back to your remote repo on GitHub
+* you do some more work
 * repeat until done
-* The instructor clones your repo from GitHub so they have a copy to look at.
+* instructor clones your repo from GitHub so they have a copy to look at.
 
 ## Starting an assignment
 
@@ -45,31 +52,31 @@ Clicking on the assignment link will redirect you to the GitHub website where a 
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-4.png)
 
-### Assignment Contents
-
-The assignment repository contains all of the files you need to complete the assignment. 
-
-### README.md - Assignment Directions
-
-The assignment will always contain at a minimum, a README.md file, which is what a repo displays as the default file for the repo. It is written in a special language \(markdown\) which allows the author to add special tags which will format the content to display nicely.
-
-#### Starter Files
-
-Depending on the nature of the assignment, there may be starter files included in the assignment repo that you will use to start your assignment. The README.md file would explain what is included and how to setup the assignment with any starter files.
 
 ### Cloning the Repository to your Local Computer
 
 Follow the directions in this [reference](./git-github-intro.md) on cloning.
 
 
+### Assignment Contents
 
-Once the command has completed, you can issue the **ls** command to see that a new directory, named bash-shell-[your-githubusername], has been created. Use the **cd** command to change directories into the newly created directory, followed by the **ls** command, to see the files that are included in this assignment.
+The assignment repository contains all of the files you need to complete the assignment. 
+
+### Assignment Directions
+
+The assignment will always contain at a minimum, a README file, which is what a repo displays as the default file for the repo. It is written in a special language, called [Markdown](https://guides.github.com/features/mastering-markdown/), which allows the author to add special tags which will format the content to display nicely.
+
+#### Starter Files
+
+Depending on the nature of the assignment, there may be starter files included in the assignment repo that you will use to start your assignment. The README file will explain what is included and how to setup the assignment with any starter files.
+
 
 ## Turning in Your Assignment.
 
-Once these operators are complete, your assignment has been turned in and your instructor can view your assignment and provide feedback if necessary.
+When you are satisfied with your assignment, do one final push to the GitHub repo. Copy the URL to your repo and paste it into the assignment within your LMS.
 
-At any time, you can return to the GitHub page for the assignment repo, and refresh the page to see any changes you have pushed.
+After you've completed these steps, your assignment has been turned in and your instructor can view your assignment and provide feedback if necessary.
+
 
 **Note:** if you have forgotten the URL for the GitHub assignment repo, you can just paste in the assignment URL again and it will take you to the GitHub assignment repo page.
 

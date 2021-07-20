@@ -4,9 +4,9 @@ The following depicts the process that occurs on your local computer and the com
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-9.png)
 
-**git init** - this step occurred automatically when the GitHub repository was cloned to your local computer. You only need to do this step when you create a local repository first.
+**git init** - this step occurred automatically when the GitHub repository was cloned to your local computer. It creates a private directory, named .git, that stores all the information for Git to track your repo. You only need to do this step when you create a local repository first.
 
-**git status** - returns a list of untracked (not in the staging area for the next commit) and tracked files (files in the staging area ready for the next commit).
+**git status** - returns a list of untracked (new) and modified files and tracked files (files in the staging area ready for the next commit).
 
 **git add** - adds any changed files to the staging area to be committed to your local repository.
 
@@ -15,8 +15,9 @@ The following depicts the process that occurs on your local computer and the com
 **git push** - pushes any changes you have made since the last commit to the GitHub repository, thereby syncs up the GitHub repo with your local repo.
 
 These three steps, **a**dd, **c**ommit, **p**ush, are commonly referred to as the **ACP cycle**, and can be repeated as many times as desired as you work on your project. Is is a good practice to push to GitHub whenever you are at a stable point after making some changes. This ensures that you can always return to that point if the need arises.
-
 <br/>
+
+
 ### Staging Area
 One of the most confusing parts when you're first learning git is the concept of the staging environment and how it relates to a commit.
 
