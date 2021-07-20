@@ -14,6 +14,8 @@ In this scenario you need do the following:
 * copy the URL for the new repo
 * **git remote add origin [GitHub repo URL]** - connect local repo with GitHub repo
 * **git branch -M main** - rename master to main
+
+### 3. Push Local Repo to GitHub
 * **git push -u origin main** - push changes to GitHub
 
 
