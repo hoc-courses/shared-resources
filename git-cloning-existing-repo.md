@@ -46,4 +46,4 @@ After you click on either of the links shown above, you will be presented with a
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-8.png)
 
-This will then clone the GitHub repository and ask you whether you want to load the new project.
+This will clone the GitHub repository. It will make a local copy of the GitHub repository and set up the .git folder to track the project so that you can manage local changes and stay in sync with the GitHub repo.
