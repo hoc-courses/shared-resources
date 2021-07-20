@@ -53,12 +53,12 @@ Clicking on the assignment link will redirect you to the GitHub website where a 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-4.png)
 
 
-### Cloning the Repository to your Local Computer
+## Cloning the Repository to your Local Computer
 
 Follow the directions in this [reference](./git-github-intro.md) on cloning.
 
 
-### Assignment Contents
+## Assignment Contents
 
 The assignment repository contains all of the files you need to complete the assignment. 
 
@@ -66,7 +66,7 @@ The assignment repository contains all of the files you need to complete the ass
 
 The assignment will always contain at a minimum, a README file, which is what a repo displays as the default file for the repo. It is written in a special language, called [Markdown](https://guides.github.com/features/mastering-markdown/), which allows the author to add special tags which will format the content to display nicely.
 
-#### Starter Files
+### Starter Files
 
 Depending on the nature of the assignment, there may be starter files included in the assignment repo that you will use to start your assignment. The README file will explain what is included and how to setup the assignment with any starter files.
 
