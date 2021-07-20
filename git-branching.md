@@ -13,6 +13,6 @@ Below is a short overview of two popular workflows.
 
 * [GitHub Flow Workflow](https://guides.github.com/introduction/flow/)
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=MnUd31TvBoU&t=643s)
-* 
+
 
 
