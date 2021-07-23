@@ -5,6 +5,13 @@ Visual Studio Code is the source code editor we will be using in the class. It  
 
 This [video](https://www.youtube.com/watch?v=ORrELERGIHs) is a good overview of the core functionalities in VS Code.
 
+### Confiruation Settings
+For each of these settings, use the Command Pallet to bring up the settings.
+* Set Git Bash as your Default Terminal Shell
+**Terminal: Select Default Profile**, and then select **Git Bash**
+* Set editor word wrap to on
+**View: Toggle Word Wrap** to on
+
 ## Essential Extensions
 
 ![](images/live-server-ext.png)
@@ -26,8 +33,6 @@ These supply syntax and background coloring, as well as icons for different file
 ![](images/quokka-ext.png)
 ![](images/rest-ext.png)
 
-## Setting Git Bash as your Default Terminal Shell
-Bring up the Command Pallete and type **Terminal: Select Default Profile**, and then select **Git Bash**
 
 
 ## Resources
