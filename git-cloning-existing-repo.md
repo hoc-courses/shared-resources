@@ -1,6 +1,4 @@
-# Git Cloning
-
-## Cloning From an Existing GitHub Repo
+# Cloning From an Existing GitHub Repo
 
 Whenever you want to work in a repository that already exists on GitHub, the first step is to clone the repository.
 
