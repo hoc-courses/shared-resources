@@ -11,6 +11,7 @@ This [video](https://www.youtube.com/watch?v=ORrELERGIHs) is a good overview of 
 ![](images/live-share-ext.png)
 ![](images/prettier-ext.png)
 ![](images/bracket-colorizer-ext.png)
+![](images/vscode-markdown-preview-ext.png)
 
 ## Popular Editor Themes
 These supply syntax and background coloring, as well as icons for different file types in the File Explorer View.
