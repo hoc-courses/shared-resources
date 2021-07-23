@@ -67,7 +67,7 @@ The basic syntax of a command: **command-name** [arguments] [flags]
 | ls -l | lists contents of directory with details |
 | git commit -m"&lt;message&gt;" | passes a message to the command |
 
-As you work with the commands, you will learn the rules for how each one works.  In the Resources section there is a link to a cheat sheet for the built-in commands. For application-specific commands, you would look for a cheat sheet summarizing the commands on their website.
+As you work with the commands, you will learn the rules for how each one works.  
 
 ### Useful Commands
 
