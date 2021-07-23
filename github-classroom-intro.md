@@ -13,7 +13,7 @@ For each assignment, GitHub Classroom will make a special URL link. When you go 
 
 This repository is a copy of the starter repository. The repository is a private repository owned by the course staff (so they can easily find and view it). It is located within the course GitHub organization, not your private GitHub account, but the student will have write access to it.
 
-The student uses this created repository to work on their assignment. This will involve cloning the repository to your local computer, editing the files and adding new ones, committing the changes (to your local repository), and pushing these changes back to the GitHub repository (so the instructor can view it).
+The student uses this created repository to work on their assignment. This will involve [cloning the repository](./git-cloning-existing-repo.md) to your local computer, working within your local repo using [git commands](./git-commands.md) for editing the files, adding new ones, committing the changes (to your local repository), and pushing these changes back to the GitHub repository (so the instructor can view it).
 
 ### Basic Workflow
 
