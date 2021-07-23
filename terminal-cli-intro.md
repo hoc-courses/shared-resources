@@ -11,9 +11,7 @@ As a software developer, it is important that you become familiar with using the
 
 ### Git Bash 
 
-![](../.gitbook/assets/image%20%28173%29.png)
-
-When you installed **git**, it also installed an application called **Bash \(Bourne Again Shell\)**, which provides a command line interface shell and some useful utilities for working with git repositories. We will use the Bash shell in this course.
+When you installed **git**, it also installed an application called **Bash (Bourne Again Shell)**, which provides a command line interface shell and some useful utilities for working with git repositories. We will use the Bash shell in this course.
 
 Using the Bash shell, you can give commands to the computer, either one at a time from a terminal window, or by running a script containing multiple commands to automate tasks.
 
@@ -22,7 +20,7 @@ Some of the most frequent uses:
 * navigate your computer to manage files and folders
 * run programs that provide more functionality from the command line
 * launch programs from specific directories
-* consistent commands across computers \(Mac, Windows, Linux\)
+* consistent commands across computers (Mac, Windows, Linux)
 
 ### Launching Git Bash
 
@@ -32,9 +30,7 @@ The shell will always display some standard information followed by a $ sign. Th
 
 You enter commands by typing the command after the $ sign and hitting the enter key.
 
-When the shell first comes up, it will default to your home directory, which has the alias **~**. To see where the home directory is, type the command **pwd** \(present working directory\).
-
-![](../.gitbook/assets/image%20%28174%29.png)
+When the shell first comes up, it will default to your home directory, which has the alias **~**. To see where the home directory is, type the command **pwd** (present working directory).
 
 ### CLI - What is a Command?
 
@@ -81,7 +77,7 @@ As you work with the commands, you will learn the rules for how each one works. 
 | clear | clears the terminal window |
 | pwd | present working directory |
 | ls | List files in the directory |
-| ls -a | List files in the directory \(include hidden files\) |
+| ls -a | List files in the directory (include hidden files) |
 | cd &lt;directory&gt; | change the directory |
 | touch &lt;file&gt; | Create an empty file |
 | echo "something" &gt; &lt;file&gt; | redirect the output of echo and create a file |
