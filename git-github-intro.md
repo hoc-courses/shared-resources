@@ -1,7 +1,5 @@
 # Git/GitHub 
 
-# Intro
-
 ### What is a Version Control System?
 
 A really helpful analogy is a video game. You get to a certain point in the game, and you don't want to lose your current place and have to start over if you die. So you save your game. If something bad happens after that point you can always reload your game and start from that point again. 
