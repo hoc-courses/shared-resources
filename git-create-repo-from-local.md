@@ -8,7 +8,7 @@ In this scenario you need do the following:
 * **git init** - initialize your project folder to be a git repo.
 * **git add .** - add all the files in your project to the staging area for the next commit.
 * **git commit -m"your comments"** - commit your changes, creating a snapshot of project.
-**git branch -M main** - rename master to main
+* **git branch -M main** - rename master to main
 ### 2. Create a GitHub Repo
 * create a repo on GitHub that will connect with your local repo.
 * copy the URL for the new repo
