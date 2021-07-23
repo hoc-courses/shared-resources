@@ -1,7 +1,7 @@
 
 # GitHub Classroom Intro
 
-We are going to be using **GitHub Classroom** to manage homework assignments. It simplifies the task of distributing/collection assignments. 
+We are going to be using **GitHub Classroom** to manage homework assignments. It simplifies the task of distributing/collecting assignments. 
 
 It will also give you lots of experience using **git** and **GitHub**, which are very useful skills, both for personal use, and one that employers require of new hires.
 
