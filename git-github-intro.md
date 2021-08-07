@@ -34,7 +34,7 @@ Typically, within a development environment, collaboration is integral to the pr
 | 1. It is a software application| 1. It is a service |
 | 2. It is installed locally on the system | 2. It is hosted on  Web |
 | 3. It is a command line tool | 3. It provides a graphical interface |
-| 4. It is a tool to manage different versions of edits, made to files in a git repository | 4. It is a space to upload a copy of the **Git** repository |
+| 4. It is a tool to manage different versions of edits, made to files in a git repository | 4. It is a space to upload a copy of a **Git** repository and optionally share and work collaboratively with others |
 | 5. It provides functionalities like Version Control System Source Code Management | 5. It provides functionalities of Git like VCS, Source Code Management as well as adding few of its own features |
 
 ### Internal Resources
