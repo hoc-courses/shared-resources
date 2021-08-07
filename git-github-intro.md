@@ -14,7 +14,7 @@ A Repository, or repo, is the collection of files that make up a single project 
 
 ### What is Git?
 
-**git** is a free and open source, distributed version control system. Git is designed to work with a repository on your local computer. The core functionality allows you to manage and keep track of changes to the collection of files in your repository over time. 
+**Git** is a free and open source, distributed version control system. Git is designed to work with a repository on your local computer. The core functionality allows you to manage and keep track of changes to the collection of files in your repository over time. 
 
 Internet access, or collaboration with other developers, is not required. Git does support sharing repositories with others across the internet, but at its core, **its primary focus is source code control in a local repository**.
 
